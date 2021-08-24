@@ -1,7 +1,9 @@
 # 안녕하세요, 정재무입니다
 
-#### 2015. 03 ~ 2021. 08 → `동국대학교 신문방송학과`
 #### 2021. 05 ~ → `42SEOUL Cadet`
+
+[![jaemjung's 42 stats](https://badge42.herokuapp.com/api/stats/jaemjung)](https://github.com/JaeSeoKim/badge42)
+
 
 <hr/>
 
