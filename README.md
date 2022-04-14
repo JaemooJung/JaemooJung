@@ -2,7 +2,7 @@
 
 #### 2021. 05 ~ → `42SEOUL Cadet`
 
-[![jaemjung's 42 stats](https://badge42.herokuapp.com/api/stats/jaemjung)](https://github.com/JaeSeoKim/badge42)
+[![jaemjung's 42 stats](https://badge42.vercel.app/api/v2/cl1yflv7v003009laoz2jwtx9/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 
 <hr/>
