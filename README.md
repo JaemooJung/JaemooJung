@@ -8,10 +8,10 @@
 <hr/>
 
 ### 사용 가능 언어
-* C - 중급
-* Python - 중급
-* Swift - 중급
-* R - 초급
+* C
+* C++
+* Python
+* Swift
 
 ### 관심분야
 * iOS
