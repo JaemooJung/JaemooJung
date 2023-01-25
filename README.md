@@ -8,16 +8,15 @@
 
 <hr/>
 
-### 사용 가능 언어
-* Swift
-* Typescript
-* C
-* C++
-* Python
-
 ### 관심분야
 * iOS
 * Web Frontend
 * Data Science
+
+### Skills
+* Swift / SwiftUI
+* Typescript / React
+* C / C++
+* Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaemooJung&show_icons=true&theme=graywhite)
