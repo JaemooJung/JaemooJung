@@ -1,9 +1,8 @@
 # Hello, this is jaemoo
 
-#### 2021. 05. ~ 2022. 12. -> `42SEOUL Cadet`
-#### 2022. 12. ~ -> `42SEOUL Member`
-#### 2023. 03. ~ 2023. 07 -> `iOS Engineer in Imagineers`
 #### 2023. 10. ~ -> `42PARIS`
+#### 2023. 03. ~ 2023. 07 -> `iOS Engineer in Imagineers`
+#### 2021. 05. ~ 2023. 02. -> `42SEOUL`
 
 <hr/>
 
