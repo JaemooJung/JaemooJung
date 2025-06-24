@@ -1,5 +1,5 @@
 # Hello, this is jaemoo
-
+#### 2025. 06. ~ -> `iOS Engineer @ BeReal`
 #### 2025. 03. ~ -> `Mobile Developer @ CarbonFarm`
 #### 2024. 03. ~ 2024. 09. -> `iOS Engineer @ Deezer`
 #### 2023. 10. ~ -> `42PARIS`
